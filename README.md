@@ -179,10 +179,10 @@ This table is used for:
 ---
 **🚀 Use Cases**
 ---
-Business reporting and dashboards
-Sales and customer analysis
-Data warehousing solutions
-Enterprise data integration
+- Business reporting and dashboards
+- Sales and customer analysis
+- Data warehousing solutions
+- Enterprise data integration
 
 ---
 **📈 Future Enhancements**
@@ -192,6 +192,13 @@ Enterprise data integration
 - Integration with Power BI dashboards
 - Incremental data loading (CDC)
 - Pipeline alerts and logging
+
+---
+**⭐ Conclusion**
+---
+This project showcases a multi-source data integration pipeline using modern Azure tools and best practices.
+It efficiently combines data from SFTP and Azure SQL, processes it using PySpark, and creates a unified reporting dataset.
+The solution is scalable, maintainable, and aligned with real-world industry data engineering standards.
 
 
 
