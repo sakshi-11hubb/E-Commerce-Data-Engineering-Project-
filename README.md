@@ -176,6 +176,11 @@ This table is used for:
 <img width="1911" height="900" alt="image" src="https://github.com/user-attachments/assets/81746ab9-f461-4cc6-9d96-99662b98c80d" />
 
 ---
+**📸 Power BI Report**
+---
+<img width="1325" height="740" alt="image" src="https://github.com/user-attachments/assets/101e1962-af1c-4e85-a649-98c135cf0fdf" />
+
+---
 **🔑 Key Features**
 ---
 - 🔗 Multi-source data integration (SFTP + Azure SQL)
