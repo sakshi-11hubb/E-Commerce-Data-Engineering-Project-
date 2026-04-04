@@ -16,8 +16,8 @@ The solution focuses on data integration, transformation, and pipeline orchestra
 * Automate data movement using Azure Data Factory (ADF)
 * Store final data in ADLS / Fabric Lakehouse for analytics
 ---
-** 🏗️ Architecture **
-
+**🏗️ Architecture**
+---
 **Data Flow:**
 
 SFTP File + Azure SQL Database
