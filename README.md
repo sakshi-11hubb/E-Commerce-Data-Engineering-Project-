@@ -65,9 +65,20 @@ Fabric Lakehouse / ADLS (Final Reporting Table)
 ---
 3️⃣ Data Aggregation (Gold Layer)
 ---
-Create business-level metrics:
-Total Sales
-Revenue by State
-Product Category Performance
-Build final unified reporting table
-Store in Gold Layer (Delta format)
+- Create business-level metrics:
+  - Total Sales
+  - Revenue by State
+  - Product Category Performance
+- Build final unified reporting table
+- Store in Gold Layer (Delta format)
+
+---
+4️⃣ Data Loading (ADF)
+---
+- Use ADF Copy Data Activity
+- Move final data from Gold layer to:
+- ADLS (for storage)
+- Microsoft Fabric Lakehouse (for reporting)
+
+---
+
