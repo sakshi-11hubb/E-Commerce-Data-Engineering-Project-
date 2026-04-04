@@ -165,7 +165,7 @@ This table is used for:
 <img width="1910" height="872" alt="image" src="https://github.com/user-attachments/assets/0a26248b-ea7b-46fb-8d24-13becc2051cc" />
 
 ---
-**📂 ADLS Storage Structure**
+**📂 ADLS Storage Account**
 ---
 <img width="1911" height="860" alt="image" src="https://github.com/user-attachments/assets/d5d82aad-36a5-413a-9ba5-4f9d7be58593" />
 
