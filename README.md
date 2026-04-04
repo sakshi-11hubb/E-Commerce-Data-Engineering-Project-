@@ -141,8 +141,29 @@ Unity Catalog is used for centralized data governance and access control.
   - Catalog: e-commerce_catalog
   - Schemas: bronze_layer, silver_layer, gold_layer
 ---
+**📊 Unified Reporting Table**
+
+The final output is a single consolidated table containing:
+
+- Customer details
+- Product information
+- Order details
+- Sales & revenue metrics
+- State and category-level aggregations
+
+This table is used for:
+
+- Dashboarding (Power BI)
+- Business analysis
+- Reporting
+
+---
 **📸 ADF Pipeline**
+
+
 <img width="1911" height="900" alt="image" src="https://github.com/user-attachments/assets/81746ab9-f461-4cc6-9d96-99662b98c80d" />
+
+
 
   
 
