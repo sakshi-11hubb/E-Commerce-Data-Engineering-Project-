@@ -160,10 +160,20 @@ This table is used for:
 - Reporting
 
 ---
+
 **📸 ADF Pipeline**
 
 
 <img width="1911" height="900" alt="image" src="https://github.com/user-attachments/assets/81746ab9-f461-4cc6-9d96-99662b98c80d" />
+
+---
+**🔑 Key Features**
+- 🔗 Multi-source data integration (SFTP + Azure SQL)
+- ⚡ Scalable data processing using PySpark
+- 🔄 Automated pipelines using ADF
+- 🧱 Medallion Architecture (Bronze, Silver, Gold)
+- 📈 Analytics-ready data for reporting
+- 🗃️ Efficient storage using Delta Lake
 
 
 
