@@ -50,3 +50,24 @@ Fabric Lakehouse / ADLS (Final Reporting Table)
   - Connected Azure SQL Database to Azure Data Factory (ADF)
   - Used ADF pipelines to extract and load data into ADLS
 - Store all raw data in Bronze Layer (ADLS)
+
+---
+2️⃣ Data Transformation (PySpark)
+---
+- Load raw data into Azure Databricks
+- Perform:
+  - Data cleaning (null handling, duplicates removal)
+  - Schema standardization
+  - Data type conversion
+- Merge datasets from SFTP and Azure SQL using joins
+- Store processed data in Silver Layer (Delta format)
+
+---
+3️⃣ Data Aggregation (Gold Layer)
+---
+Create business-level metrics:
+Total Sales
+Revenue by State
+Product Category Performance
+Build final unified reporting table
+Store in Gold Layer (Delta format)
