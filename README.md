@@ -167,7 +167,8 @@ This table is used for:
 ---
 **📂 ADLS Storage Account**
 ---
-<img width="1911" height="860" alt="image" src="https://github.com/user-attachments/assets/d5d82aad-36a5-413a-9ba5-4f9d7be58593" />
+<img width="1915" height="925" alt="image" src="https://github.com/user-attachments/assets/5bde57f3-303b-4ffc-a415-3c9f6313e4a5" />
+
 
 ---
 **📸 ADF Pipeline**
