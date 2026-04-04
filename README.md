@@ -8,8 +8,9 @@ The pipeline ingests data from an SFTP server and an Azure SQL Database, process
 The solution focuses on data integration, transformation, and pipeline orchestration using industry-standard tools and best practices.
 
 🎯 Project Objectives
-*Integrate data from multiple sources (SFTP + Azure SQL)
-*Perform data transformation and merging using PySpark
-*Build a unified reporting dataset
-*Automate data movement using Azure Data Factory (ADF)
-*Store final data in ADLS / Fabric Lakehouse for analytics
+
+* Integrate data from multiple sources (SFTP + Azure SQL)
+* Perform data transformation and merging using PySpark
+* Build a unified reporting dataset
+* Automate data movement using Azure Data Factory (ADF)
+* Store final data in ADLS / Fabric Lakehouse for analytics
