@@ -34,6 +34,7 @@ ADLS (Silver & Gold Layer)
 ADF (Copy Activity)
 →
 Fabric Lakehouse / ADLS (Final Reporting Table)
+
 ---
 🔄 Data Pipeline Workflow
 --
