@@ -33,3 +33,18 @@ ADLS (Silver & Gold Layer)
 ADF (Copy Activity)
 →
 Fabric Lakehouse / ADLS (Final Reporting Table)
+---
+🔄 Data Pipeline Workflow
+--
+1️⃣ Data Ingestion
+- Extract data from:
+  - SFTP server (CSV files) using WinSCP
+  - Azure SQL Database (structured tables)
+- SFTP Handling (WinSCP):
+  - Connected to SFTP server using WinSCP
+  - Downloaded raw CSV files from SFTP to local system
+  - Uploaded files to Azure Data Lake Storage (ADLS - Bronze Layer)
+- Azure SQL Data Ingestion:
+  - Connected Azure SQL Database to Azure Data Factory (ADF)
+  - Used ADF pipelines to extract and load data into ADLS
+- Store all raw data in Bronze Layer (ADLS)
