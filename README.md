@@ -21,15 +21,15 @@ The solution focuses on data integration, transformation, and pipeline orchestra
 **Data Flow:**
 
 SFTP File + Azure SQL Database
-↓
+→
 Azure Data Factory (Ingestion & Orchestration)
-↓
+→
 ADLS (Raw / Bronze Layer)
-↓
+→
 Azure Databricks (PySpark Processing)
-↓
+→
 ADLS (Silver & Gold Layer)
-↓
+→
 ADF (Copy Activity)
-↓
+→
 Fabric Lakehouse / ADLS (Final Reporting Table)
