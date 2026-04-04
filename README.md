@@ -191,7 +191,7 @@ This table is used for:
 - Business reporting and dashboards
 - Sales and customer analysis
 - Data warehousing solutions
-- Enterprise data integration
+- Enterprise data integration 
 
 ---
 **📈 Future Enhancements**
@@ -206,7 +206,7 @@ This table is used for:
 **⭐ Conclusion**
 ---
 This project showcases a multi-source data integration pipeline using modern Azure tools and best practices.
-It efficiently combines data from SFTP and Azure SQL, processes it using PySpark, and creates a unified reporting dataset.
+It efficiently combines data from SFTP and Azure SQL, processes it using PySpark, and creates a unified reporting dataset.                                                            
 The solution is scalable, maintainable, and aligned with real-world industry data engineering standards.
 
 
