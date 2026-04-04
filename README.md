@@ -114,4 +114,32 @@ This project uses Delta Lake for reliable and optimized data storage.
 - Reliable data consistency
 - Supports incremental loads
 
+---
+🗂️ Unity Catalog (Data Governance)
+---
+Unity Catalog is used for centralized data governance and access control.
+
+**Components:**
+
+**📦 Metastore**
+- Central repository to manage metadata
+- Stores information about tables, schemas, and permissions
+---
+**🔐 Credentials**
+- Secure access to external storage (ADLS)
+- Managed via service principals or managed identities
+---
+**📍 External Locations**
+- Maps ADLS storage paths to Databricks
+- Enables secure and governed data access
+---
+**🗃️ Catalogs & Schemas**
+- Organizes data into logical layers
+
+- Example:
+
+  - Catalog: e-commerce_catalog
+  - Schemas: bronze_layer, silver_layer, gold_layer
+  
+
   
