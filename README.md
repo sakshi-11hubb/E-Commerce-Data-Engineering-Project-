@@ -7,6 +7,7 @@ This project demonstrates an end-to-end data engineering pipeline that integrate
 The pipeline ingests data from an SFTP server and an Azure SQL Database, processes and merges the data using PySpark in Azure Databricks, and loads the final dataset into Azure Data Lake Storage (ADLS) / Microsoft Fabric Lakehouse for reporting and analysis.
 
 The solution focuses on data integration, transformation, and pipeline orchestration using industry-standard tools and best practices.
+
 ---
 🎯 Project Objectives
 ---
