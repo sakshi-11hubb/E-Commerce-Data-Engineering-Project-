@@ -77,8 +77,8 @@ Fabric Lakehouse / ADLS (Final Reporting Table)
 ---
 - Use ADF Copy Data Activity
 - Move final data from Gold layer to:
-- ADLS (for storage)
-- Microsoft Fabric Lakehouse (for reporting)
+  -  ADLS (for storage)
+  -  Microsoft Fabric Lakehouse (for reporting)
 
 ---
 
