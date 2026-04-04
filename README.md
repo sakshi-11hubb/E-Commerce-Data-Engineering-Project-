@@ -144,7 +144,7 @@ Unity Catalog is used for centralized data governance and access control.
 ---
 
 **📊 Unified Reporting Table**
-
+---
 The final output is a single consolidated table containing:
 
 - Customer details
@@ -162,12 +162,13 @@ This table is used for:
 ---
 
 **📸 ADF Pipeline**
-
+---
 
 <img width="1911" height="900" alt="image" src="https://github.com/user-attachments/assets/81746ab9-f461-4cc6-9d96-99662b98c80d" />
 
 ---
 **🔑 Key Features**
+---
 - 🔗 Multi-source data integration (SFTP + Azure SQL)
 - ⚡ Scalable data processing using PySpark
 - 🔄 Automated pipelines using ADF
@@ -182,6 +183,15 @@ Business reporting and dashboards
 Sales and customer analysis
 Data warehousing solutions
 Enterprise data integration
+
+---
+**📈 Future Enhancements**
+---
+- Real-time data ingestion using Event Hub / Kafka
+- Data quality checks & monitoring
+- Integration with Power BI dashboards
+- Incremental data loading (CDC)
+- Pipeline alerts and logging
 
 
 
