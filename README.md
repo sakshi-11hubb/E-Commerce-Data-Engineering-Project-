@@ -86,3 +86,32 @@ Fabric Lakehouse / ADLS (Final Reporting Table)
 
 - Used for orchestrating data ingestion pipelines
 - Parameterized pipelines for scalability
+
+---
+ **🔹 Azure Data Lake Storage (ADLS)**
+
+- Stores data in layered architecture (Bronze, Silver, Gold)
+- Supports scalable and cost-effective storage
+
+---
+**🔹 Azure Databricks (PySpark)**
+
+- Used for data transformation and processing
+- Handles large-scale distributed data processing
+
+---
+🪨 Delta Lake & Delta Tables
+---
+This project uses Delta Lake for reliable and optimized data storage.
+
+**Key Features Used:**
+- ACID Transactions
+- Schema Enforcement
+- Efficient upserts (MERGE operations)
+  
+**Why Delta Tables?**
+- Faster query performance
+- Reliable data consistency
+- Supports incremental loads
+
+  
