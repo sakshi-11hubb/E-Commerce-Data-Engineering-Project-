@@ -140,7 +140,9 @@ Unity Catalog is used for centralized data governance and access control.
 
   - Catalog: e-commerce_catalog
   - Schemas: bronze_layer, silver_layer, gold_layer
+
 ---
+
 **📊 Unified Reporting Table**
 
 The final output is a single consolidated table containing:
