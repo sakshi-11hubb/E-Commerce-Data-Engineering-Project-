@@ -203,7 +203,6 @@ This table is used for:
 ---
 - Real-time data ingestion using Event Hub / Kafka
 - Data quality checks & monitoring
-- Integration with Power BI dashboards
 - Incremental data loading (CDC)
 - Pipeline alerts and logging
 
