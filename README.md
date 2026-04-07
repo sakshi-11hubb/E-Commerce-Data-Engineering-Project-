@@ -16,6 +16,7 @@ The solution focuses on data integration, transformation, and pipeline orchestra
 * Build a unified reporting dataset
 * Automate data movement using Azure Data Factory (ADF)
 * Store final data in ADLS / Fabric Lakehouse for analytics
+* Power BI DashBoard
 ---
 🏗️ Architecture
 ---
@@ -34,6 +35,8 @@ ADLS (Silver & Gold Layer)
 ADF (Copy Activity)
 →
 Fabric Lakehouse / ADLS (Final Reporting Table)
+→
+Power BI DashBoard
 
 ---
 🔄 Data Pipeline Workflow
