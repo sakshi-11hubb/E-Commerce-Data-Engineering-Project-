@@ -168,6 +168,10 @@ This table is used for:
 **📂 ADLS Storage Account**
 ---
 <img width="1915" height="925" alt="image" src="https://github.com/user-attachments/assets/5bde57f3-303b-4ffc-a415-3c9f6313e4a5" />
+---
+**Databricks Job & Task**
+---
+<img width="1600" height="775" alt="image" src="https://github.com/user-attachments/assets/28a854da-0f6c-4987-ab43-bd4b55637de8" />
 
 
 ---
