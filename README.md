@@ -173,6 +173,11 @@ This table is used for:
 <img width="1915" height="925" alt="image" src="https://github.com/user-attachments/assets/5bde57f3-303b-4ffc-a415-3c9f6313e4a5" />
 
 ---
+**Unity Catalog**
+---
+<img width="972" height="923" alt="image" src="https://github.com/user-attachments/assets/2b513231-b404-4058-9df3-1fa78f668e16" />
+
+---
 **Databricks Job & Task**
 ---
 
