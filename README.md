@@ -15,7 +15,7 @@ The solution focuses on data integration, transformation, and pipeline orchestra
 * Perform data transformation and merging using PySpark
 * Build a unified reporting dataset
 * Automate data movement using Azure Data Factory (ADF)
-* Store final data in ADLS / Fabric Lakehouse for analytics
+* Store final data in ADLS / Fabric Lakehouse for analytics 
 * Power BI DashBoard
 ---
 🏗️ Architecture
